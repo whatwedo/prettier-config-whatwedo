@@ -1,0 +1,10 @@
+{
+	"name": "prettier-config-whatwedo",
+	"version": "1.0.0",
+	"description": "whatwedo Prettier base config",
+	"keywords": ["prettier", "whatwedo"],
+	"author": "whatwedo GmbH <welove@whatwedo.ch>",
+	"repository": "git@github.com:whatwedo/prettier-config-whatwedo.git",	
+	"license": "MIT",
+	"main": "index.js"
+}
